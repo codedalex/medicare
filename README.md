@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
+    <a >
       <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
     </a>
   <br />
@@ -13,10 +13,6 @@
   </div>
 
   <h3 align="center">A HealthCare Management System</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -91,8 +87,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
-cd healthcare
+git clone https://github.com/codedalex/medicare.git
+cd medicare
 ```
 
 **Installation**
@@ -121,6 +117,12 @@ NEXT_PUBLIC_ADMIN_PASSKEY=111111
 ```
 
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite website](https://appwrite.io/).
+
+**In APPWRITE, create a database and name it whatever you like**
+
+## <a name="Appwrite Process"> APPWRITE Database Creation </a>
+
+<iframe src="https://scribehow.com/embed/HealthCare_Platform_database_creation_back-end_through_Appwrite__AP46oibWR4m3jYURSiR8XA?as=scrollable" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 **Running the Project**
 
